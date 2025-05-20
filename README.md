@@ -1,51 +1,81 @@
-# 👋 Hi, I’m Ihor Holub  
-### Experienced Computer Vision & AI Developer | Deep Learning & ML Specialist  
-🇺🇦 A Computer Vision Engineer from Ukraine who bridges the gap between AI theory and real-world impact.
+# HolubVisionAI
+
+👋 Hi, I’m Ihor Holub  
+**Computer Vision & AI Developer | Deep Learning & ML Specialist**  
+🇺🇦 From Ukraine, building robust AI systems that work beyond the lab.
 
 ---
 
-## 🧠 My Specialty: Solving the “Last-Mile” Problems
+## 🧠 My Focus: Real-World AI That Delivers
 
-I build vision systems that thrive in messy, unpredictable environments.  
-Here are a few highlights:
-
-- 🚁 **Drone Traffic Monitoring** – Built for a Dubai smart-city project, reduced false alarms by 65% even in sandstorms.  
-- 🧠 **MRI Model Compression** – Optimized a U.S. healthcare model to run on Raspberry Pi, slashing cloud costs by 40%.  
-- 🛒 **Retail Inventory Tracker** – Developed a YOLOv8 system that cut manual checks by 25 hours/month for a German client.
+I specialize in solving the “last-mile” problems in AI—where theory meets chaos.  
+Whether it's dusty drones or edge devices in hospitals, I make vision work where it's needed most.
 
 ---
 
-## 🤝 Why Clients Work With Me
+## 🛠️ Project Highlights
 
-- 🔧 **I fix what others can’t:**  
-  *“Ihor took our prototype that worked perfectly in the lab and made it functional in rain, low light, and crowds.”*
+- 🚁 **Drone Traffic Monitoring**  
+  Built for a smart-city initiative in Dubai. Reduced false alarms by **65%**, even in low-visibility sandstorms.
 
-- 🗣️ **No jargon, just clarity:**  
-  Weekly updates via Slack/Loom, always in plain English. Happy to deep dive—over coffee or kompot.
+- 🧠 **MRI Model Compression**  
+  Helped a U.S. healthcare team run deep models on Raspberry Pi—cutting cloud costs by **40%**.
 
-- ⚖️ **Ethics-first AI:**  
-  Audited a facial recognition system and removed 12% bias against darker skin tones before deployment.
-
----
-
-## 🚀 Technical Edge & Trends I Leverage
-
-- 🎨 **Generative AI** – Used Stable Diffusion to augment training data for a PCB inspection project (+18% accuracy).  
-- 🧾 **Prompt Engineering** – Crafted text-to-image prompts to align DALL·E outputs with branding.  
-- 🔁 **MLOps** – CI/CD pipelines with AWS SageMaker reduced model downtime by 70%.
+- 🛒 **Retail Inventory Tracker**  
+  Developed a YOLOv8 solution that saved **25+ manual hours/month** for a German retail client.
 
 ---
 
-## 🛠️ Tools & Technologies I Trust
+## 🤝 Why Teams Work With Me
 
-- **Languages:** Python, C++  
-- **Frameworks:** PyTorch, TensorFlow, OpenCV  
-- **Cloud/DevOps:** AWS, GCP, Azure, Docker, MLflow, ONNX  
-- **Edge AI & Others:** NVIDIA Jetson, Stable Diffusion, LangChain  
+- 🔧 **I fix what others can’t**  
+  _“Ihor took our prototype that worked perfectly in the lab and made it functional in rain, low light, and crowds.”_
+
+- 🗣️ **Clear communication, no jargon**  
+  Weekly updates with visual walkthroughs and real results. Always transparent and aligned with goals.
+
+- ⚖️ **Ethics-first AI**  
+  Audited a facial recognition system and mitigated **12% demographic bias** before deployment.
 
 ---
 
-## 📬 Let’s Connect!
+## 🚀 Tools & Tech I Work With
 
-Want to turn your “impossible” vision problem into a working product?  
-Reach out today and let's make it happen!
+- **Languages**: Python, C++
+- **Frameworks**: PyTorch, TensorFlow, OpenCV
+- **DevOps/MLOps**: AWS, GCP, Azure, Docker, MLflow, ONNX
+- **Edge AI / Other**: NVIDIA Jetson, Stable Diffusion, LangChain
+
+---
+
+## 💡 Innovations
+
+- 🎨 Used **Stable Diffusion** for training data augmentation in PCB defect detection (**+18% accuracy**).
+- 🧾 Applied **prompt engineering** to align DALL·E outputs with brand identity for a client’s AI art generator.
+- 🔁 Built MLOps pipelines with AWS SageMaker, reducing model downtime by **70%**.
+
+---
+
+## 📂 How to Use This Repository
+
+This repo contains a curated set of my production-ready vision and AI components.  
+Each module is:
+- Documented
+- Tested
+- Optimized for edge or cloud deployment
+
+Feel free to explore the code, architectures, and annotated examples.
+
+---
+
+## 📌 Interested in Collaborating?
+
+If you're tackling a complex computer vision challenge and need someone who can:
+- Bridge research and deployment
+- Optimize models for production
+- Communicate clearly and deliver fast
+
+...then this portfolio will give you a solid idea of how I work.
+
+> _Note: This portfolio is intended for demonstration purposes only and follows all freelance platform policies._
+
